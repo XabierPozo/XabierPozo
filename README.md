@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning:
-  Polish <img width="284" height="177" alt="image" src="https://github.com/user-attachments/assets/96e9a21b-6080-4f68-8686-96d111391a8a" />
+  Polish <img width="125" height="80" alt="image" src="https://github.com/user-attachments/assets/4dd05222-5bef-4a36-86d8-91ed5b4558e1" />
+
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
