@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning:
+- 🌱 I’m currently learning: <br>
   Polish <img width="125" height="80" alt="image" src="https://github.com/user-attachments/assets/4dd05222-5bef-4a36-86d8-91ed5b4558e1" />
 
 
