@@ -13,9 +13,9 @@ I'm from Spain 🇪🇸, currently in Spain. I'm huge fan of Java, C++, and C; b
 <img width="20" height="13" alt="Poland Flag" src="https://github.com/user-attachments/assets/4dd05222-5bef-4a36-86d8-91ed5b4558e1" /> Polish
 
 ## 👯 I'm looking to collaborate on:
-| AI Neural Networks | Cyber Security Team | Systems Architecture |
-| :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/ab453a15-36be-457d-bd18-153807c468ba" width="180"> | <img src="TU_URL_TEAM" width="180"> | <img src="TU_URL_PRESENTACION" width="180"> |
+| AI Projects |
+| :---: |
+| <img src="https://github.com/user-attachments/assets/ab453a15-36be-457d-bd18-153807c468ba" width="180"> |
 
 ## 📫 How to reach me:
 Contact Mail: [xputzua.github@hotmail.com](mailto:xputzua.github@hotmail.com)
