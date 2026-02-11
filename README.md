@@ -5,15 +5,15 @@ I'm from Spain <img width="20" height="13" alt="image" src="https://github.com/u
 
 
 🔭 I’m currently working on <br>
-<img width="78" height="76" alt="image" src="https://github.com/user-attachments/assets/6e9d248c-3f51-4cab-8947-936fc4de9250" />
+<img width="58" height="57" alt="image" src="https://github.com/user-attachments/assets/6e9d248c-3f51-4cab-8947-936fc4de9250" />
 
 🌱 I’m currently learning: <br>
 <img width="20" height="13" alt="image" src="https://github.com/user-attachments/assets/4dd05222-5bef-4a36-86d8-91ed5b4558e1" /> Polish 
 
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on:
+  <img width="551" height="314" alt="image" src="https://github.com/user-attachments/assets/ab453a15-36be-457d-bd18-153807c468ba" />
+
 📫 How to reach me: 
 Contact Mail: xputzua.github@hotmail.com
 <!--
