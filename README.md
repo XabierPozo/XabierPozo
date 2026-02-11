@@ -11,7 +11,7 @@ I'm from Spain <img width="20" height="13" alt="image" src="https://github.com/u
 <img width="20" height="13" alt="image" src="https://github.com/user-attachments/assets/4dd05222-5bef-4a36-86d8-91ed5b4558e1" /> Polish 
 
 
-- 👯 I’m looking to collaborate on:
+- 👯 I’m looking to collaborate on: <br>
   <img width="55" height="31" alt="image" src="https://github.com/user-attachments/assets/ab453a15-36be-457d-bd18-153807c468ba" />
 
 📫 How to reach me: 
