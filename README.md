@@ -12,7 +12,7 @@ I'm from Spain <img width="20" height="13" alt="image" src="https://github.com/u
 
 
 - 👯 I’m looking to collaborate on:
-  <img width="551" height="314" alt="image" src="https://github.com/user-attachments/assets/ab453a15-36be-457d-bd18-153807c468ba" />
+  <img width="55" height="31" alt="image" src="https://github.com/user-attachments/assets/ab453a15-36be-457d-bd18-153807c468ba" />
 
 📫 How to reach me: 
 Contact Mail: xputzua.github@hotmail.com
