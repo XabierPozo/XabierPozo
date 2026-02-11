@@ -12,7 +12,7 @@ I'm from Spain 🇪🇸, currently in Spain. I'm huge fan of Java, C++, and C; b
 ## 🌱 I'm currently learning:
 <img width="20" height="13" alt="Poland Flag" src="https://github.com/user-attachments/assets/4dd05222-5bef-4a36-86d8-91ed5b4558e1" /> Polish
 
-<img width="137" height="80" alt="image" src="https://github.com/user-attachments/assets/8516ecdb-bf26-4905-8f2d-44b06f807c51" />
+<img width="92" height="53" alt="image" src="https://github.com/user-attachments/assets/8516ecdb-bf26-4905-8f2d-44b06f807c51" />
 
 
 ## 👯 I'm looking to collaborate on:
