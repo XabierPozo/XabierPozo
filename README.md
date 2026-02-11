@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Xabier Pozo
 
 😄 About me
-I'm from Spain <img width="20" height="13" alt="image" src="https://github.com/user-attachments/assets/9f3c40d1-1b90-4d01-aacf-f0cc2e8ed65f" />
+I'm from Spain <img width="20" height="13" alt="image" src="https://github.com/user-attachments/assets/9f3c40d1-1b90-4d01-aacf-f0cc2e8ed65f" /> , currently in Spain. I'm huge fan of Java, C++, and C; but also a good coder on python and JS and good . 
 
 
 🔭 I’m currently working on ...
