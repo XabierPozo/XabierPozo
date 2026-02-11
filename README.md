@@ -6,7 +6,7 @@ I'm from Spain 🇪🇸, currently in Spain. I'm huge fan of Java, C++, and C; b
 ## 🔭 I'm currently working on
 | Java Projects | AI Research | Ethical Hacking | Arch Linux |
 | :---: | :---: | :---: | :---: |
-| <img src="TU_URL_JAVA" width="150"> | <img src="TU_URL_IA" width="150"> | <img src="TU_URL_HACKING" width="150"> | <img src="https://github.com/user-attachments/assets/6e9d248c-3f51-4cab-8947-936fc4de9250" width="150">
+| <img src="https://github.com/user-attachments/assets/b93fefd5-544b-4bdd-b7d2-1bc1cf74521f" width="150"> | <img src="TU_URL_IA" width="150"> | <img src="TU_URL_HACKING" width="150"> | <img src="https://github.com/user-attachments/assets/6e9d248c-3f51-4cab-8947-936fc4de9250" width="150">
 | **Java Dev** | **AI & Brain** | **Ethical Hacking** |
 
 ## 🌱 I'm currently learning:
