@@ -4,9 +4,9 @@
 I'm from Spain 🇪🇸, currently in Spain. I'm huge fan of Java, C++, and C; but also a good coder on python and JS and good at cibersecurity, DB management, systems and network management and Full Stack Development. When I'm not fighting the code, I release my energy in Muay Thai🥊, BJJ🥋 and the Gym🏋🏻‍♂️.
 
 ## 🔭 I'm currently working on
-| Java Projects | AI Research | Ethical Hacking |
-| :---: | :---: | :---: |
-| <img src="TU_URL_JAVA" width="150"> | <img src="TU_URL_IA" width="150"> | <img src="TU_URL_HACKING" width="150"> |
+| Java Projects | AI Research | Ethical Hacking | Arch Linux |
+| :---: | :---: | :---: | :---: |
+| <img src="TU_URL_JAVA" width="150"> | <img src="TU_URL_IA" width="150"> | <img src="TU_URL_HACKING" width="150"> | <img src="https://github.com/user-attachments/assets/6e9d248c-3f51-4cab-8947-936fc4de9250" width="150">
 | **Java Dev** | **AI & Brain** | **Ethical Hacking** |
 
 ## 🌱 I'm currently learning:
@@ -15,7 +15,7 @@ I'm from Spain 🇪🇸, currently in Spain. I'm huge fan of Java, C++, and C; b
 ## 👯 I'm looking to collaborate on:
 | AI Neural Networks | Cyber Security Team | Systems Architecture |
 | :---: | :---: | :---: |
-| <img src="TU_URL_RED_NEURAL" width="180"> | <img src="TU_URL_TEAM" width="180"> | <img src="TU_URL_PRESENTACION" width="180"> |
+| <img src="[TU_URL_RED_NEURAL](https://github.com/user-attachments/assets/ab453a15-36be-457d-bd18-153807c468ba)" width="180"> | <img src="TU_URL_TEAM" width="180"> | <img src="TU_URL_PRESENTACION" width="180"> |
 
 ## 📫 How to reach me:
 Contact Mail: [xputzua.github@hotmail.com](mailto:xputzua.github@hotmail.com)
