@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, my name is Xabier Pozo
+
+- 😄 About me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning: <br>
