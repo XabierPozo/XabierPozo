@@ -11,8 +11,8 @@ I'm from Spain 🇪🇸, currently in Spain. I'm huge fan of Java, C++, and C; b
 
 ## 🌱 I'm currently learning:
 <img width="20" height="13" alt="Poland Flag" src="https://github.com/user-attachments/assets/4dd05222-5bef-4a36-86d8-91ed5b4558e1" /> Polish
-<img width="135" height="59" alt="image" src="https://github.com/user-attachments/assets/2c032606-1712-4697-9720-5644b493da01" />
 
+<img width="67" height="30" alt="image" src="https://github.com/user-attachments/assets/2c032606-1712-4697-9720-5644b493da01" />
 
 ## 👯 I'm looking to collaborate on:
 | AI Projects |
