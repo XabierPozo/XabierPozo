@@ -1,19 +1,24 @@
 # Hi there👋, my name is Xabier Pozo
 
 ## 😄 About me
-I'm from Spain <img width="20" height="13" alt="image" src="https://github.com/user-attachments/assets/9f3c40d1-1b90-4d01-aacf-f0cc2e8ed65f" /> , currently in Spain. I'm huge fan of Java, C++, and C; but also a good coder on python and JS and good at cibersecurity, DB management, systems and network management and Full Stack Development. When I'm not fighting the code, I release my energy in Muay Thai🥊, BJJ🥋 and the Gym🏋🏻‍♂️.
+I'm from Spain 🇪🇸, currently in Spain. I'm huge fan of Java, C++, and C; but also a good coder on python and JS and good at cibersecurity, DB management, systems and network management and Full Stack Development. When I'm not fighting the code, I release my energy in Muay Thai🥊, BJJ🥋 and the Gym🏋🏻‍♂️.
 
 ## 🔭 I'm currently working on
-<img width="58" height="57" alt="image" src="https://github.com/user-attachments/assets/6e9d248c-3f51-4cab-8947-936fc4de9250" />
+| Java Projects | AI Research | Ethical Hacking |
+| :---: | :---: | :---: |
+| <img src="TU_URL_JAVA" width="150"> | <img src="TU_URL_IA" width="150"> | <img src="TU_URL_HACKING" width="150"> |
+| **Java Dev** | **AI & Brain** | **Ethical Hacking** |
 
 ## 🌱 I'm currently learning:
-<img width="20" height="13" alt="image" src="https://github.com/user-attachments/assets/4dd05222-5bef-4a36-86d8-91ed5b4558e1" /> Polish
+<img width="20" height="13" alt="Poland Flag" src="https://github.com/user-attachments/assets/4dd05222-5bef-4a36-86d8-91ed5b4558e1" /> Polish
 
 ## 👯 I'm looking to collaborate on:
-<img width="101" height="57" alt="image" src="https://github.com/user-attachments/assets/ab453a15-36be-457d-bd18-153807c468ba" />
+| AI Neural Networks | Cyber Security Team | Systems Architecture |
+| :---: | :---: | :---: |
+| <img src="TU_URL_RED_NEURAL" width="180"> | <img src="TU_URL_TEAM" width="180"> | <img src="TU_URL_PRESENTACION" width="180"> |
 
 ## 📫 How to reach me:
-Contact Mail: xputzua.github@hotmail.com
+Contact Mail: [xputzua.github@hotmail.com](mailto:xputzua.github@hotmail.com)
 
 <!--
 **XabierPozo/XabierPozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
