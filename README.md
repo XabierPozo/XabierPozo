@@ -1,10 +1,12 @@
 ## Hi there 👋, my name is Xabier Pozo
 
-- 😄 About me
+😄 About me
+I'm from Spain <img width="33" height="22" alt="image" src="https://github.com/user-attachments/assets/9f3c40d1-1b90-4d01-aacf-f0cc2e8ed65f" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning: <br>
-  <img width="25" height="16" alt="image" src="https://github.com/user-attachments/assets/4dd05222-5bef-4a36-86d8-91ed5b4558e1" /> Polish 
+
+🔭 I’m currently working on ...
+🌱 I’m currently learning: <br>
+<img width="25" height="16" alt="image" src="https://github.com/user-attachments/assets/4dd05222-5bef-4a36-86d8-91ed5b4558e1" /> Polish 
 
 
 - 👯 I’m looking to collaborate on ...
