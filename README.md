@@ -8,6 +8,10 @@ I'm from Spain 🇪🇸, currently in Spain. I'm huge fan of Java, C++, and C; b
 | :---: | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/b93fefd5-544b-4bdd-b7d2-1bc1cf74521f" width="150"> | <img src="https://github.com/user-attachments/assets/df40baa8-25f7-46a6-b99d-130a8492d818" width="150"> | <img src="https://github.com/user-attachments/assets/b45a11da-d869-4667-82d1-d827fc28cec7" width="150"> | <img src="https://github.com/user-attachments/assets/6e9d248c-3f51-4cab-8947-936fc4de9250" width="150">
 
+## ⚡ My Projects:
+I have several projects and toys I created myself because I get very bored. I hope you like [it](https://github.com/XabierPozo/public_projects) and that you find it quite useful.
+
+Also if you like chess, I hope you love my reinvention of 3D chess
 
 ## 🌱 I'm currently learning:
 <img width="20" height="13" alt="Poland Flag" src="https://github.com/user-attachments/assets/4dd05222-5bef-4a36-86d8-91ed5b4558e1" /> Polish
