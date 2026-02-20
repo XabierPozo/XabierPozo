@@ -11,7 +11,7 @@ I'm from Spain 🇪🇸, currently in Spain. I'm huge fan of Java, C++, and C; b
 ## ⚡ My Projects:
 I have several projects and toys I created myself because I get very bored. I hope you like [it](https://github.com/XabierPozo/public_projects) and that you find it quite useful.
 
-Also if you like chess, I hope you love my reinvention of [3D chess]()
+Also if you like chess, I hope you love my reinvention of [3D chess](https://github.com/XabierPozo/public_projects/tree/main/3D_Chess)
 
 ## 🌱 I'm currently learning:
 <img width="20" height="13" alt="Poland Flag" src="https://github.com/user-attachments/assets/4dd05222-5bef-4a36-86d8-91ed5b4558e1" /> Polish
