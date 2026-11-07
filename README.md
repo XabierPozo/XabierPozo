@@ -1,7 +1,7 @@
 # Hi there👋, my name is Xabier Pozo
 
 ## 😄 About me
-I'm from Spain 🇪🇸, currently in Spain. I'm huge fan of Java, C++, and C; but also a good coder on python and JS and good at cibersecurity, DB management, systems and network management and Full Stack Development. When I'm not fighting the code, I release my energy in Muay Thai🥊, BJJ🥋 and the Gym🏋🏻‍♂️.
+I'm from Spain 🇪🇸, currently in Spain. I'm huge fan of Java, C++, and C; but also a good coder on python and JS and good at cibersecurity, DB management, systems and network management and Full Stack Development.
 
 ## 🔭 I'm currently working on
 | Java Projects | AI Research | Ethical Hacking | Arch Linux |
@@ -14,7 +14,7 @@ I have several projects and toys I created myself because I get very bored. I ho
 Also if you like chess, I hope you love my reinvention of [3D chess](https://github.com/XabierPozo/public_projects/tree/main/3D_Chess)
 
 ## 🌱 I'm currently learning:
-<img width="20" height="13" alt="Poland Flag" src="https://github.com/user-attachments/assets/4dd05222-5bef-4a36-86d8-91ed5b4558e1" /> Polish
+<img width="20" height="13" alt="Czech Flag" src="https://github.com/user-attachments/assets/4dd05222-5bef-4a36-86d8-91ed5b4558e1" /> Czech
 
 <img width="92" height="53" alt="image" src="https://github.com/user-attachments/assets/8516ecdb-bf26-4905-8f2d-44b06f807c51" />
 
