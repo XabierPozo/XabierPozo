@@ -14,10 +14,7 @@ I have several projects and toys I created myself because I get very bored. I ho
 Also if you like chess, I hope you love my reinvention of [3D chess](https://github.com/XabierPozo/public_projects/tree/main/3D_Chess)
 
 ## 🌱 I'm currently learning:
-<img width="20" height="13" alt="Czech Flag" src="https://github.com/user-attachments/assets/4dd05222-5bef-4a36-86d8-91ed5b4558e1" /> Czech
-
-<img width="92" height="53" alt="image" src="https://github.com/user-attachments/assets/8516ecdb-bf26-4905-8f2d-44b06f807c51" />
-
+<img width="20" height="13" alt="Czech Flag" src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/cz.svg" /> Czech
 
 ## 👯 I'm looking to collaborate on:
 | AI Projects |
