@@ -13,6 +13,8 @@ I have several projects and toys I created myself because I get very bored. I ho
 
 Also if you like chess, I hope you love my reinvention of [3D chess](https://github.com/XabierPozo/public_projects/tree/main/3D_Chess)
 
+If you’d like to learn a new language, you’ll definitely like my project, [WortSpiel](https://xputzua.duckdns.org/proj/wortSpiel.html)
+
 ## 🌱 I'm currently learning:
 <img width="20" height="13" alt="Czech Flag" src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/cz.svg" /> Czech
 
