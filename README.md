@@ -1,7 +1,7 @@
 # Hi there👋, my name is Xabier Pozo
 
 ## 😄 About me
-I'm from Spain 🇪🇸, currently in Spain. I'm huge fan of Java, C++, and C; but also a good coder on python and JS and good at cibersecurity, DB management, systems and network management and Full Stack Development.
+I'm from Spain <img width="20" height="13" alt="Spanish Flag" src="[https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/es.svg](https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/es.svg)" />, currently in Spain. I'm huge fan of Java, C++, and C; but also a good coder on python and JS and good at cibersecurity, DB management, systems and network management and Full Stack Development.
 
 ## 🔭 I'm currently working on
 | Java Projects | AI Research | Ethical Hacking | Arch Linux |
